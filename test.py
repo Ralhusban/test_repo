@@ -2,4 +2,9 @@
 # This is a change to the python test file
 
 
-import matplotlib 
+
+
+
+import numpy as np
+
+pprint(np.random())
