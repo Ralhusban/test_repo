@@ -7,4 +7,4 @@
 
 import numpy as np
 
-print(np.random())
+pprint(np.random())
