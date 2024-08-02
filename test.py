@@ -5,6 +5,6 @@
 
 
 
-import numpy as np
+import numpy as npy
 
-pprint(np.random())
+print(np.random())
