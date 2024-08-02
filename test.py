@@ -5,6 +5,8 @@
 
 
 
-import numpy as np
-
+import numpy as nupm
+from matplotlib import pyplot as plt
 pprint(np.random())
+
+plt.plot([1,2,3],[1,2,3])
